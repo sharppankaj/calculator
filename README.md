@@ -1,8 +1,7 @@
 "# calculator" 
 
 Overview
-
-The Simple Calculator App is a web-based application designed to perform basic arithmetic operations conveniently. It offers a user-friendly interface for addition, subtraction, multiplication, and division. Built with HTML, CSS, and JavaScript, this calculator provides a straightforward solution for performing calculations within a browser environment. Whether you're a student, professional, or casual user, this calculator simplifies mathematical tasks with ease of access and functionality.
+	The Simple Calculator App is a web-based application designed to perform basic arithmetic operations conveniently. It offers a user-friendly interface for addition, subtraction, multiplication, and division. Built with HTML, CSS, and JavaScript, this calculator provides a straightforward solution for performing calculations within a browser environment. Whether you're a student, professional, or casual user, this calculator simplifies mathematical tasks with ease of access and functionality.
 
 Project Structure
  index/html:
