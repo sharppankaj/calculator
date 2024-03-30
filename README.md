@@ -6,13 +6,13 @@ The Simple Calculator App is a web-based application designed to perform basic a
 
 Project Structure
 
-    index.html:
+    index/html:
     This file serves as the main entry point for the application. It contains the structure and layout of the calculator interface, including buttons for numbers and operators, display area for input and output, and any necessary elements for user interaction.
 
-    style.css:
+    style/css:
     The CSS file responsible for styling the calculator interface. It defines the appearance, layout, and visual aspects of the calculator, ensuring a clean and intuitive user experience. Styles include button appearance, font settings, colors, and layout adjustments.
 
-    script.js:
+    script/js:
     The JavaScript file houses the logic and functionality of the calculator. It handles user input, performs arithmetic calculations based on user interactions, updates the display with results, and manages any other dynamic behavior of the application. The script.js file is crucial for the calculator's operation, implementing algorithms for addition, subtraction, multiplication, and division, as well as handling error cases and edge conditions.
 
 
