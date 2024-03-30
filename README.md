@@ -17,8 +17,7 @@ Project Structure
 
 
     Support
-
-For assistance, feedback, or suggestions, users can open issues on GitHub or contact at my email pankajjoshiforyou@gmail.com. Your input is valuable for improving the Simple Calculator App and ensuring it meets the needs of its users effectively.
+    For assistance, feedback, or suggestions, users can open issues on GitHub or contact at my email pankajjoshiforyou@gmail.com. Your input is valuable for improving the Simple Calculator App and ensuring it meets the needs of its users effectively.
 
 
     
